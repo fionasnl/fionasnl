@@ -1,2 +1,2 @@
 <span>lu e nay<span>
-<pre>@luarochacastro @naielly.sm<pre>
+<b>@luarochacastro @naielly.sm<b>
